@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  background-image: url(boat.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
+.prica {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  background: white;
+  opacity: 0.7;
+}
+.drugideo {
+  background-image: url(horse.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
+.trecideo {
+  background-image: url(three.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
+.cetvrtideo {
+  background-image: url(cherry.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
+.petideo {
+  background-image: url(hand.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
+.sestideo {
+  background-image: url(bear.jpg);
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  position: relative;
+  height: 950px;
+  top: -21px;
+}
